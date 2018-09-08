@@ -1,8 +1,6 @@
 # ptexture
 
-Texture analysis library for PET and python
-
-A package to compute a total of 261 texture features from voxel lists.
+Texture analysis library for PET and python to compute a total of 261 texture features from voxel lists.
 
 News
 
