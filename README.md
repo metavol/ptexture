@@ -1,4 +1,4 @@
-# ptexture
+# PTexture
 
 Texture analysis library for PET and python to compute a total of 261 texture features from voxel lists.
 
